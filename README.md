@@ -1,3 +1,3 @@
 # OlimpiaGym
-OliempiaGym es una pagina hecha en html y css sobre un Gym.
+OliempiaGym is a page made in html and css about a Gym.
 URL: https://olimpiagym.onrender.com/
